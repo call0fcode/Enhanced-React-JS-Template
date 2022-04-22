@@ -6,7 +6,7 @@ function App() {
       <p className={classes["highlighted-text"]}>
         Template designed with ❤ by{" "}
         <a
-          href="https://github.com/call0fcode"
+          href="https://github.com/call0fcode/Enhanced-React-JS-Template"
           target="_blank"
           rel="noreferrer"
         >
